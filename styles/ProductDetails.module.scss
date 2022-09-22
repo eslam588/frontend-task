@@ -1,0 +1,19 @@
+.productdetails{
+    margin:20px;
+   display:flex;
+   font-size:25px;
+   flex-wrap: wrap;
+   img{
+    margin-right:30px;
+   }
+   .productdescription{
+
+    max-width:800px;
+    button{
+        background-color:rgb(35, 35, 73);
+        color:white;
+        font-size:20px;
+        padding:10px;
+    }
+   }
+}

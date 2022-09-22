@@ -1,0 +1,25 @@
+.card{
+    margin:10px;
+    CardMedia{
+        background-size: cover;
+    }
+    .prow{
+        display:flex;
+        align-items:center;
+        justify-content:space-between;
+    }
+    .addcart{
+        display:flex;
+        justify-content: center;
+        background-color:rgb(46, 67, 67);
+        margin-bottom: 0;
+        color:white !important;
+
+        button{
+            color:white;
+            font-size:15px;
+            font-weight:bold;
+        }
+        
+    }
+}
